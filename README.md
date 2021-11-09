@@ -1,7 +1,7 @@
 # TareasCursos
 Los trabajos presentados en este repositorio fueron desarrollados por los estudiantes:
-+ Nicolas Toledo Parra     2200017
-+ Gabriela Sánchez Ariza   2200816
++ Nicolas Toledo Parra - 2200017
++ Gabriela Sánchez Ariza - 2200816
 
 Dispone de tres directorios: 
 + DocPDF (para albergar los documentos)
